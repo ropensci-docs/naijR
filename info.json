@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "c369550cc2959d9689d4bebda6c6f5e2a4a181b8",
+    "author": "Victor Ordu <victorordu@outlook.com>",
+    "time": "2023-12-14 21:38:17",
+    "files": 87,
+    "merge": true,
+    "message": "Merge pull request #65 from ropensci/dev\n\nChanges made as a continuation of the clean-up of metadata and coverage monitoring."
+  },
+  "repo": "https://github.com/ropensci/naijR",
+  "pkg": "naijR"
+}
