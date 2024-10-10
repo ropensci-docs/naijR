@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "65a0f9f7b8c7803042fb33809642909dfbd783e0",
+    "author": "Victor Ordu <victorordu@outlook.com>",
+    "time": "2024-10-10 18:55:39",
+    "files": 2,
+    "merge": false,
+    "message": "Fix broken test in Win builder\n\nOn the Win Builder platform, a test which polls data from `data-raw` fails. Thus, in order to make this contained to the testing infrastructure, the object that was used (a data frame) was now saved as an RDS object in the `tests/testthat/data/` directory.\n"
+  },
+  "repo": "https://github.com/ropensci/naijR",
+  "pkg": "naijR"
+}

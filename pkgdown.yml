@@ -1,0 +1,10 @@
+pandoc: 3.2.1
+pkgdown: 2.1.0
+pkgdown_sha: ~
+articles:
+  interactive: interactive.html
+  nigeria-maps: nigeria-maps.html
+last_built: 2024-10-10T20:16Z
+urls:
+  reference: https://docs.ropensci.org/naijR/reference
+  article: https://docs.ropensci.org/naijR/articles
