@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "30b3f299ad688b90c84cec155b843b627d0c757c",
+    "author": "Victor Ordu <victorordu@outlook.com>",
+    "time": "2026-03-08T07:20:23Z",
+    "files": 7,
+    "merge": true,
+    "message": "Merge pull request #74 from ropensci/dev\n\nV.0.7.0"
+  },
+  "repo": "https://github.com/ropensci/naijR",
+  "pkg": "naijR",
+  "time": "2026-08-30T07:40:46Z"
+}
