@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "4681c341199dc74e8bb520fce94037bb35180364",
+    "author": "Victor Ordu <victorordu@outlook.com>",
+    "time": "2026-11-05T18:30:40Z",
+    "files": 1,
+    "merge": false,
+    "message": "Bump patch version to 0.7.1\n"
+  },
+  "repo": "https://github.com/ropensci/naijR",
+  "pkg": "naijR",
+  "time": "2026-11-05T19:15:42Z"
+}
